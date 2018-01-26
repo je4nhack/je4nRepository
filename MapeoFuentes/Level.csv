@@ -1,0 +1,9 @@
+dataset,dataset_father,dataset_name,dataset_father_name,validation
+v_pdco_balances_aggregate,v_pdco_contract_master,Hcontra,Maestro de contratos,5
+v_pdco_balances_aggregate,v_pdco_Balance_monthly_corp,Hcontra,Saldos,5
+v_pdco_balances_aggregate,v_pdco_epigraph_product,Hcontra,Relación cuenta contable y epigrafe,5
+v_pdco_balances_aggregate,v_pdco_epigraph,Hcontra,Catalogo epigrafe,5
+v_pdco_balances_aggregate,v_pdco_formula_concepan,Hcontra,Parametría estados de resultados,5
+v_pdco_payroll_bdph_mov,v_pdco_payroll_mph_mov,Pago haberes,VPIDSMPH,3
+v_pdco_payroll_bdph_mov,v_pdco_business_days,Pago haberes,VKIDSZKM,3
+v_pdco_payroll_bdph_mov,v_pdco_exchange_rate,Pago haberes,Tipo de cambio,3

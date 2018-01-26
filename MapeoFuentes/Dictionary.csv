@@ -1,0 +1,10 @@
+dataset,status,origin,description,source_name,temp
+v_pdco_contract_master,0,PI,Maestro de contratos,VKIDSBCC,
+v_pdco_Balance_monthly_corp,0,PI,Saldos,VKIDSHDA,
+v_pdco_epigraph_product,0,PI,Relación cuenta contable y epigrafe,VKIDSBMB,
+v_pdco_epigraph,0,PI,Catalogo epigrafe,VKIDSBME,
+v_pdco_formula_concepan,0,PI,Parametría estados de resultados,VPIDSZVX,
+v_pdco_balances_aggregate,0,Huki,Hcontra,,
+v_pdco_payroll_mph_mov,0,PI,Movimiento pago haberes,VPIDSMPH,
+v_pdco_business_days,0,PI,días habiles - negocio,VKIDSZKM,
+v_pdco_payroll_bdph_mov,0,Huki,Pago haberes - Huki,,
